@@ -1,0 +1,8 @@
+a.iframe-lightbox-link {
+    padding: 5px 5px;
+    text-decoration: none;
+    border: 1px solid;
+    position: absolute;
+    left: 20%;
+    top: 20px;
+}
